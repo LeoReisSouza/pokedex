@@ -1,11 +1,13 @@
-# Sample Snack app
+# 📱 Pokedéx - Atividade 3
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+Este projeto é um aplicativo simples de Pokédex desenvolvido como parte da **Atividade nº 3** da disciplina.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+- 👤 **Aluno:** Leonardo dos Reis Souza  
+- 🎓 **Matrícula:** GU3027287  
+---
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+## 🚀 Acesse o App
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+Você pode visualizar o app diretamente pelo Snack do Expo clicando no link abaixo:
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+👉 [**Abrir o App no Snack (Expo)**](https://snack.expo.dev/@leonarzdo/pokedex)
